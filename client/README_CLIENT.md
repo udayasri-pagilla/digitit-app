@@ -1,0 +1,1 @@
+This is the client app. Run with `npm install` then `npm run dev`. Set VITE_API_URL in env to http://localhost:4000 if server runs locally.
