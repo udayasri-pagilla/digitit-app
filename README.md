@@ -177,7 +177,7 @@ This project shows my ability to build real-world full-stack applications with s
 ## 🤝 Contact  
 **Udayasri**  
 Full Stack Developer  
-📧 your-email@example.com  
+📧 udayasripagilla1873@gmail.com  
 🔗 GitHub: https://github.com/udayasri-pagilla/digitit-app  
 🔗 LinkedIn: https://www.linkedin.com/in/udayasri-pagilla-253633257/
 ---
